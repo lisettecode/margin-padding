@@ -1,0 +1,31 @@
+a{
+    margin:15px;
+    padding: 20px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #F3E3E3;
+    font-family: fantasy;
+    display: inline-block;
+    text-align: center;
+    margin-top: 100px;
+}
+
+a:hover{
+    background-color: purple;
+    transition: all 500ms ease;
+    font-size: 20px;
+}
+body {
+    background-image:url(bg.jpg);
+    background-repeat: no-repeat;
+}
+p {
+    background-color: palegreen;
+    width: 60%;
+    font-size: 25px;  
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    
+}

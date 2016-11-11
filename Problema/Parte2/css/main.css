@@ -1,1 +1,20 @@
-/* Agrega aqui tu CSS */
+div {
+    width: 200px;
+    border: 2px solid orange;
+    padding: 7px;
+    margin: 10px;
+}
+.box {
+    background-color: #F3E3E3;
+    font-size: 20px;  
+    margin-top: 20px;
+    border-bottom: 5px solid rgba(235,167,221,0.5);
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+}
+.box:hover{
+    background-color: purple;
+    transition: all 500ms ease;
+    font-size: 20px; 
+}
